@@ -12,6 +12,7 @@ The important fix:
 - Fix empty package for Enable Jpa Repositories - [#16736](https://github.com/jhipster/generator-jhipster/pull/16736)
 
 Other improvements and upgrades:
+- Removed support for Java 8
 - Consolidate java supported versions and add support to java 17 - [#16426](https://github.com/jhipster/generator-jhipster/pull/16426)
 - Improve cypress relationships tests - [#16504](https://github.com/jhipster/generator-jhipster/pull/16504) [#16592](https://github.com/jhipster/generator-jhipster/pull/16592)
 - Many libraries upgrades
